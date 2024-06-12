@@ -1,5 +1,5 @@
 # QLBanDoAn
-Đây là phần mềm di động 
+Đây là phần mềm di động <br>
 Dùng Android studio code thiết kế 
 Database được lưu trữ ở firebase 
 Gồm 2 vai trò : người dùng ( app ) và admin ( web:dùng visual studio code 2019)
